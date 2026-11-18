@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>질문과 배움을 잇는 책</title>
+  <rect width="64" height="64" rx="18" fill="#126b75"/>
+  <path d="M29 10.5h18a5 5 0 0 1 5 5v8a5 5 0 0 1-5 5H36l-7 5v-5a5 5 0 0 1-5-5v-8a5 5 0 0 1 5-5Z" stroke="#fffef9" stroke-width="2.7" stroke-linejoin="round"/>
+  <path d="M31 18h14" stroke="#d4b964" stroke-width="2.7" stroke-linecap="round"/>
+  <path d="M12 32c7-1 13 1 20 5 7-4 13-6 20-5v19c-7-1-13 1-20 5-7-4-13-6-20-5V32Z" fill="#126b75" stroke="#fffef9" stroke-width="2.7" stroke-linejoin="round"/>
+  <path d="M32 37v19M18 39l8 3M18 45l8 3M38 42l8-3M38 48l8-3" stroke="#fffef9" stroke-width="2.3" stroke-linecap="round"/>
+</svg>
